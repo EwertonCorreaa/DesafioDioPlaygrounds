@@ -1,31 +1,11 @@
-## Olá, eu sou Ewerton Corrêa!
+<p align="center">
+<img src="https://hermes.dio.me/tracks/61d57203-7c43-4d8d-a3f0-833faa2ce680.png" align="center" width="150px" ></p>
+<h2 align="center"> Mobile iOS com Swift </h2>
 
-- 🌱 Estou estudando Swift iOS, SQL, CocoaPods
-- 😄 Pronomes: ele/dele
-  
-### Conecte-se Comigo
- <div> 
-  <a href="https://instagram.com/ewertoncorrea_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/piriquitinzika" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:enascimentooo60@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ewerton-corrêa-575604164" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://steamcommunity.com/id/zikaskins/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>   
- 
-</div>
- 
-### Github Stats
+### Primeiro Desafio:
 
-![Ewerton's Status](https://github-readme-stats.vercel.app/api?username=ewertoncorreaa&show_icons=true)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ewertoncorreaa&hide_progress=true)
-
-  ##
-  
-  ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-  ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-  ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-  ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
+- Criar um projeto no Playground usando o Xcode;
+- Definir uma _constante_ com a inicial "Steve";
+- Definir uma _variável_ do tipo String opcional com valor inicial "Jobs";
+- Escrever um print fazendo interpolação com a _constante_ e _variável_, definindo um valor _default_ para a variável opcional como "Wosniak";
+- Fazer um _Optional BInding_ na variável e dentro da condição fazer outro print com interpolação entre a constante e variável que foi desembrulhada.
